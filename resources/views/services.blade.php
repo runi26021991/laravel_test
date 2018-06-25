@@ -21,7 +21,7 @@
                 </div>
 
                 <div class="col_w420">
-                	<h2>Service List</h2>
+                	<h2>{{$h1}}</h2>
                     <ul class="tmo_list">
                         <li> Phasellus fermentum urna vitae dui tincidunt ultrices dignissim diam ultricies. </li>
                         <li>Vestibulum sed velit vitae sapien egestas iaculis. Sed facilisis lacus et leo eleifend dignissim.</li>

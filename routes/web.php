@@ -19,9 +19,7 @@ Route::get('/contact', function () {
     return view('contact');
 });
 
-Route::get('/services', function () {
-    return view('services');
-});
+Route::get('/services', 'ServiceController@index');
 
 Route::get('/partners', function () {
     return view('partners');
